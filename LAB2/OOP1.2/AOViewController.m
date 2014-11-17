@@ -32,8 +32,8 @@
         }
     }
     NSLog(@"%@", deck);
-    
-    
+
+        
     for(NSString*suits in suits){
         for (NSString *card in cards){
             AOCard *cardInDeck =[[AOCard alloc] initWithSuit:suit value:card];
