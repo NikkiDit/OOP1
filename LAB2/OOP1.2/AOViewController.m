@@ -22,7 +22,7 @@
     // suits c, h, s, o
     // card a,2,3,4, 5, 6, 7, 8, 9, 10, j, q, k
     NSArray *cards = @[@"A", @"2", @"3",@"4", @"5", @"6",@"7", @"8", @"9",@"10", @"J", @"Q", @"K"];
-    NSArray *suits = @[@"C", @"H", @"S", @"D", @"B"];
+    NSArray *suits = @[@"C", @"H", @"S", @"D"];
     NSMutableArray *deck =[NSMutableArray array];
     
     for(NSString*suits in suits){
