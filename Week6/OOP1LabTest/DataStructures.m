@@ -11,13 +11,30 @@
 @implementation DataStructures
 
 +(NSString *) array{
-    NSMutableArray *mutableArray = [NSMutableArray arrayWithCapacity:2];
-    [mutableArray addObject:@"Hello"];
-    [mutableArray addObject:@"World"];
-     [mutableArray removeObjectAtIndex:0];
-    [mutableArray removeObjectAtIndex:0];
-        
-        
-    return mutableArray;
+    NSMutableArray *mutableArray = [NSMutableArray arrayWithCapacity:0];
+    if (mutableArray.count==0){
+        return nil;
+    }
+    return nil;
 }
+
+
+
+    + (NSInteger) dictionary{
+        NSDictionary *values = @{
+                                 @"A": @3,
+                                 @"B": @4,
+                                 @"c": @5,
+                                 @"K": @10
+                                 };
+       
+        
+        NSNumber *value = values[@"A"];
+        if(value){
+            NSLog(@"Object = %@", value);
+            return value.integerValue;
+        }else{
+            return 0;
+        }
+    }
 @end
