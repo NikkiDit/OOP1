@@ -54,6 +54,16 @@ NSString *name;
     return r;
 }
 
-
-
++(int *) whileTest{
+    int counts =0;
+    int ii = 1;
+    while (ii < 10)
+    {
+          counts = ii/2;
+          ii++;
+    }
+    
+    NSLog(@"%d", counts);
+    return 0;
+}
 @end

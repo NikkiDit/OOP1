@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BD02E725-9E98-4182-B402-4D9ADADF30F0</string>
+	<string>6895780E-7140-425E-951C-C3F044B581E1</string>
 	<key>IDESourceControlProjectName</key>
 	<string>OOP1LabTest</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D18E147D-4BF1-47F5-9B2C-28992DB78E6F</key>
-		<string>https://github.com/NikkiDit/OOP1.git</string>
+		<key>AA002F58-77DE-457E-A6A3-F9B777BBDDEF</key>
+		<string>https://github.com/zdavison/DIT.OOP1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Week6/OOP1LabTest/OOP1LabTest.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D18E147D-4BF1-47F5-9B2C-28992DB78E6F</key>
+		<key>AA002F58-77DE-457E-A6A3-F9B777BBDDEF</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/NikkiDit/OOP1.git</string>
+	<string>https://github.com/zdavison/DIT.OOP1.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D18E147D-4BF1-47F5-9B2C-28992DB78E6F</string>
+	<string>AA002F58-77DE-457E-A6A3-F9B777BBDDEF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D18E147D-4BF1-47F5-9B2C-28992DB78E6F</string>
+			<string>AA002F58-77DE-457E-A6A3-F9B777BBDDEF</string>
 			<key>IDESourceControlWCCName</key>
-			<string>OOP1</string>
+			<string>DIT.OOP1</string>
 		</dict>
 	</array>
 </dict>

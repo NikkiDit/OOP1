@@ -10,4 +10,14 @@
 
 @implementation DataStructures
 
++(NSString *) array{
+    NSMutableArray *mutableArray = [NSMutableArray arrayWithCapacity:2];
+    [mutableArray addObject:@"Hello"];
+    [mutableArray addObject:@"World"];
+     [mutableArray removeObjectAtIndex:0];
+    [mutableArray removeObjectAtIndex:0];
+        
+        
+    return mutableArray;
+}
 @end
